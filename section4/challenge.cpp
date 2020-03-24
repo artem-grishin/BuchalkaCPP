@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(int argc, char*argv[]) {
+int main(int argc, char *argv[]) {
     int fav_num = 0;
     std::cout << "Enter your favorite number that is between 1 and 100: " << std::endl;
     std::cin >> fav_num;
